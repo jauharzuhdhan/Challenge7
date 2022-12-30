@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "123225954935",
+    "project_id": "challenge7-2ddb4",
+    "storage_bucket": "challenge7-2ddb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123225954935:android:46baa80918aeea08140472",
+        "android_client_info": {
+          "package_name": "com.jauhar.challenge7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123225954935-mgkojre70ks4ipfvd2he9at2fu19tgsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaDebxVpod5tKpBAll8Fgl2PPBwhwL6ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123225954935-mgkojre70ks4ipfvd2he9at2fu19tgsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123225954935:android:99fc6fe3f908e73a140472",
+        "android_client_info": {
+          "package_name": "com.jauhar.challenge7.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123225954935-mgkojre70ks4ipfvd2he9at2fu19tgsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaDebxVpod5tKpBAll8Fgl2PPBwhwL6ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123225954935-mgkojre70ks4ipfvd2he9at2fu19tgsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
